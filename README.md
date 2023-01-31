@@ -1,30 +1,35 @@
-<h2>Hello There! My name is Thiago 🖖</h2>
+<h2>Olá! Eu sou Thiago Cardoso, vulgo Thentrax!</h2>
 
-[![Email](https://img.shields.io/badge/thiagoc1415@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thiagoc1415@gmail.com)
-[![Linkedin](https://img.shields.io/badge/thiago-cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-cardoso-256763186/)
+<p>💬 Pronomes - Ele/Dele</p>
 
-<h3>🙋‍♂️ About:</h3>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoc1415@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-cardoso-256763186/)
+
+<h3>📋 Sobre:</h3>
+<p><b>📗 Estudante de Engenharia de Software</b>  - Universidade de Vassouras (Vassouras/RJ)</p>
+<p><b>🖥 Auxiliar de Informática</b>  trabalhando com Laravel (PHP) & banco de dados MySql  </p>
+
+<div style="display: inline_block"><br>
+<p>💻 Tecnologias que Conheço:</p>
+  <img align="center" alt="Thentrax-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Thentrax-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thentrax-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thentrax-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thentrax-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Thentrax-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
+<p>📚 Estou estudando:</p>
+  <img align="center" alt="Thentrax-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Thentrax-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>
+
+
 <hr>
-<p><b>Software Engineer</b> student at Universidade de Vassouras (Vassouras/RJ)</p>
 
 
-![Thentrax GitHub stats](https://github-readme-stats.vercel.app/api?username=thentrax&show_icons=true&theme=dark)
+![Thentrax GitHub stats](https://github-readme-stats.vercel.app/api?username=thentrax&show_icons=true&theme=merko&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thentrax&layout=compact&theme=merko&line_height=25)](https://github.com/thentrax/github-readme-stats)
 
-
-<h3>⚡ Technologies:</h3>
 <hr>
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) <br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) <br>
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) <br>
-
-<p>📖 I'm learning:</p>
-<hr>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
