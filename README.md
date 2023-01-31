@@ -29,7 +29,7 @@
 <hr>
 
 
-![Thentrax GitHub stats](https://github-readme-stats.vercel.app/api?username=thentrax&show_icons=true&theme=merko&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thentrax&layout=compact&theme=merko&line_height=25)](https://github.com/thentrax/github-readme-stats)
+![Thentrax GitHub stats](https://github-readme-stats.vercel.app/api?username=thentrax&show_icons=true&theme=merko&line_height=20&card_width=100)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thentrax&layout=compact&theme=merko&line_height=25&card_width=150)](https://github.com/thentrax/github-readme-stats)
 
 <hr>
