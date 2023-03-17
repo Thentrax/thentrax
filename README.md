@@ -24,12 +24,3 @@
   <img align="center" alt="Thentrax-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Thentrax-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
-
-
-<hr>
-
-
-![Thentrax GitHub stats](https://github-readme-stats.vercel.app/api?username=thentrax&show_icons=true&theme=merko&line_height=20&card_width=100)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thentrax&layout=compact&theme=merko&line_height=25&card_width=150)](https://github.com/thentrax/github-readme-stats)
-
-<hr>
