@@ -1,4 +1,4 @@
-<h2>Olá! Eu sou Thiago Cardoso, vulgo Thentrax!</h2>
+<h2>Olá! Eu sou Thiago Cardoso</h2>
 
 <p>💬 Pronomes - Ele/Dele</p>
 
