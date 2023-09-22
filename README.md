@@ -7,7 +7,7 @@
 
 <h3>📋 Sobre:</h3>
 <p><b>📗 Estudante de Engenharia de Software</b>  - Universidade de Vassouras (Vassouras/RJ)</p>
-<p><b>🖥 Auxiliar de Informática</b>  trabalhando com Laravel (PHP) & banco de dados MySql  </p>
+<p>Desenvolvedor Front End Jr - SmartNX</p>
 
 <div style="display: inline_block"><br>
 <p>💻 Tecnologias que Conheço:</p>
